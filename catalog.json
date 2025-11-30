@@ -9,7 +9,7 @@
         "hp": 525,
         "speed": 296,
         "year": 2023,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Porsche_911_GT3_RS_%28992%29.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1503376763036-066120622c74?auto=format&fit=crop&w=600"
       },
       {
         "name": "Taycan Turbo S",
@@ -18,7 +18,7 @@
         "speed": 260,
         "year": 2022,
         "isElectric": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Porsche_Taycan_Turbo_S_IMG_4474.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?auto=format&fit=crop&w=600"
       }
     ]
   },
@@ -32,7 +32,7 @@
         "hp": 478,
         "speed": 324,
         "year": 1987,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/F40_Ferrari_20090509.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=600"
       },
       {
         "name": "Roma",
@@ -40,7 +40,7 @@
         "hp": 620,
         "speed": 320,
         "year": 2023,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ferrari_Roma_at_IAA_2021_1X7A0065.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&w=600"
       }
     ]
   },
@@ -54,7 +54,7 @@
         "hp": 245,
         "speed": 250,
         "year": 2021,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/VW_Golf_VIII_GTI_Kings_Red.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=600"
       },
       {
         "name": "ID.Buzz",
@@ -63,7 +63,7 @@
         "speed": 145,
         "year": 2023,
         "isElectric": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Volkswagen_ID._Buzz_Pro_IMG_5366.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1662973796853-9b9355799307?auto=format&fit=crop&w=600"
       },
       {
         "name": "Käfer (Beetle)",
@@ -71,7 +71,7 @@
         "hp": 34,
         "speed": 115,
         "year": 1965,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/VW_K%C3%A4fer_1200_L_Sunny_Bug_1984_%2814872323630%29.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=600"
       }
     ]
   },
@@ -86,7 +86,7 @@
         "speed": 210,
         "year": 2024,
         "isElectric": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tesla_Cybertruck_at_Giga_Texas_release_party.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1699315985392-16279986348d?auto=format&fit=crop&w=600"
       }
     ]
   },
@@ -101,7 +101,7 @@
         "speed": 350,
         "year": 2024,
         "isElectric": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lamborghini_Revuelto_IMG_6469.jpg"
+        "imageUrl": "https://images.unsplash.com/photo-1544614471-32906873b9ce?auto=format&fit=crop&w=600"
       }
     ]
   }
