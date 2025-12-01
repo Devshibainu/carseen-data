@@ -123,6 +123,15 @@
     ]
   },
   {
+    "name": "Smart", "countryCode": "DE",
+    "models": [
+      { "name": "Fortwo", "rarity": "COMMON" },
+      { "name": "Forfour", "rarity": "COMMON" },
+      { "name": "#1", "isElectric": true, "rarity": "COMMON" },
+      { "name": "#3", "isElectric": true, "rarity": "COMMON" }
+    ]
+  },
+  {
     "name": "Ford", "countryCode": "US",
     "models": [
       { "name": "Fiesta", "rarity": "COMMON" },
@@ -148,6 +157,51 @@
       { "name": "Model X", "isElectric": true, "rarity": "RARE" },
       { "name": "Cybertruck", "isElectric": true, "rarity": "EPIC" },
       { "name": "Roadster", "isElectric": true, "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Chevrolet", "countryCode": "US",
+    "models": [
+      { "name": "Camaro", "rarity": "RARE" },
+      { "name": "Corvette", "rarity": "EPIC" },
+      { "name": "Silverado", "rarity": "COMMON" },
+      { "name": "Tahoe", "rarity": "COMMON" },
+      { "name": "Bolt", "isElectric": true, "rarity": "COMMON" }
+    ]
+  },
+  {
+    "name": "Jeep", "countryCode": "US",
+    "models": [
+      { "name": "Renegade", "rarity": "COMMON" },
+      { "name": "Compass", "rarity": "COMMON" },
+      { "name": "Cherokee", "rarity": "COMMON" },
+      { "name": "Grand Cherokee", "rarity": "RARE" },
+      { "name": "Wrangler", "rarity": "RARE" },
+      { "name": "Gladiator", "rarity": "EPIC" },
+      { "name": "Avenger", "isElectric": true, "rarity": "RARE" }
+    ]
+  },
+  {
+    "name": "Dodge", "countryCode": "US",
+    "models": [
+      { "name": "Challenger", "rarity": "RARE" },
+      { "name": "Charger", "rarity": "RARE" },
+      { "name": "Durango", "rarity": "RARE" },
+      { "name": "Ram 1500", "rarity": "COMMON" },
+      { "name": "Viper", "hp": 640, "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Rivian", "countryCode": "US",
+    "models": [
+      { "name": "R1T", "isElectric": true, "rarity": "EPIC" },
+      { "name": "R1S", "isElectric": true, "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Lucid", "countryCode": "US",
+    "models": [
+      { "name": "Air", "isElectric": true, "rarity": "EPIC" }
     ]
   },
   {
@@ -206,6 +260,273 @@
     ]
   },
   {
+    "name": "Subaru", "countryCode": "JP",
+    "models": [
+      { "name": "Impreza", "rarity": "COMMON" },
+      { "name": "Forester", "rarity": "COMMON" },
+      { "name": "Outback", "rarity": "COMMON" },
+      { "name": "BRZ", "rarity": "RARE" },
+      { "name": "WRX STI", "rarity": "EPIC" },
+      { "name": "Solterra", "isElectric": true, "rarity": "RARE" }
+    ]
+  },
+  {
+    "name": "Suzuki", "countryCode": "JP",
+    "models": [
+      { "name": "Swift", "rarity": "COMMON" },
+      { "name": "Vitara", "rarity": "COMMON" },
+      { "name": "Jimny", "rarity": "RARE" },
+      { "name": "Ignis", "rarity": "COMMON" }
+    ]
+  },
+  {
+    "name": "Mitsubishi", "countryCode": "JP",
+    "models": [
+      { "name": "Outlander", "rarity": "COMMON" },
+      { "name": "ASX", "rarity": "COMMON" },
+      { "name": "Space Star", "rarity": "COMMON" },
+      { "name": "Lancer Evolution", "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Ferrari", "countryCode": "IT",
+    "models": [
+      { "name": "488", "rarity": "EPIC" },
+      { "name": "F8 Tributo", "rarity": "EPIC" },
+      { "name": "Roma", "rarity": "EPIC" },
+      { "name": "Portofino", "rarity": "EPIC" },
+      { "name": "812 Superfast", "rarity": "LEGENDARY" },
+      { "name": "296 GTB", "rarity": "EPIC" },
+      { "name": "SF90", "rarity": "LEGENDARY" },
+      { "name": "Purosangue", "rarity": "LEGENDARY" },
+      { "name": "LaFerrari", "hp": 963, "rarity": "LEGENDARY" },
+      { "name": "F40", "hp": 478, "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Lamborghini", "countryCode": "IT",
+    "models": [
+      { "name": "Huracán", "rarity": "EPIC" },
+      { "name": "Aventador", "rarity": "LEGENDARY" },
+      { "name": "Urus", "rarity": "EPIC" },
+      { "name": "Revuelto", "rarity": "LEGENDARY" },
+      { "name": "Countach", "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Maserati", "countryCode": "IT",
+    "models": [
+      { "name": "Ghibli", "rarity": "RARE" },
+      { "name": "Levante", "rarity": "RARE" },
+      { "name": "Quattroporte", "rarity": "EPIC" },
+      { "name": "MC20", "rarity": "LEGENDARY" },
+      { "name": "GranTurismo", "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Alfa Romeo", "countryCode": "IT",
+    "models": [
+      { "name": "Giulia", "rarity": "EPIC" },
+      { "name": "Stelvio", "rarity": "EPIC" },
+      { "name": "Tonale", "rarity": "RARE" },
+      { "name": "4C", "rarity": "LEGENDARY" },
+      { "name": "Giulietta", "rarity": "RARE" }
+    ]
+  },
+  {
+    "name": "Fiat", "countryCode": "IT",
+    "models": [
+      { "name": "500", "rarity": "COMMON" },
+      { "name": "500e", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Panda", "rarity": "COMMON" },
+      { "name": "Tipo", "rarity": "COMMON" },
+      { "name": "124 Spider", "rarity": "RARE" },
+      { "name": "Multipla", "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Lancia", "countryCode": "IT",
+    "models": [
+      { "name": "Ypsilon", "rarity": "COMMON" },
+      { "name": "Delta Integrale", "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Aston Martin", "countryCode": "GB",
+    "models": [
+      { "name": "DB11", "rarity": "EPIC" },
+      { "name": "DB12", "rarity": "EPIC" },
+      { "name": "Vantage", "rarity": "EPIC" },
+      { "name": "DBX", "rarity": "EPIC" },
+      { "name": "DB5", "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "McLaren", "countryCode": "GB",
+    "models": [
+      { "name": "720S", "rarity": "LEGENDARY" },
+      { "name": "Artura", "rarity": "EPIC" },
+      { "name": "GT", "rarity": "EPIC" },
+      { "name": "P1", "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Bentley", "countryCode": "GB",
+    "models": [
+      { "name": "Continental GT", "rarity": "EPIC" },
+      { "name": "Bentayga", "rarity": "EPIC" },
+      { "name": "Flying Spur", "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Rolls-Royce", "countryCode": "GB",
+    "models": [
+      { "name": "Phantom", "rarity": "LEGENDARY" },
+      { "name": "Ghost", "rarity": "LEGENDARY" },
+      { "name": "Cullinan", "rarity": "LEGENDARY" },
+      { "name": "Spectre", "isElectric": true, "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Land Rover", "countryCode": "GB",
+    "models": [
+      { "name": "Range Rover", "rarity": "EPIC" },
+      { "name": "Range Rover Sport", "rarity": "RARE" },
+      { "name": "Range Rover Evoque", "rarity": "COMMON" },
+      { "name": "Defender", "rarity": "RARE" },
+      { "name": "Discovery", "rarity": "RARE" }
+    ]
+  },
+  {
+    "name": "Jaguar", "countryCode": "GB",
+    "models": [
+      { "name": "F-Pace", "rarity": "RARE" },
+      { "name": "E-Pace", "rarity": "COMMON" },
+      { "name": "I-Pace", "isElectric": true, "rarity": "RARE" },
+      { "name": "F-Type", "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Mini", "countryCode": "GB",
+    "models": [
+      { "name": "Cooper", "rarity": "COMMON" },
+      { "name": "Clubman", "rarity": "COMMON" },
+      { "name": "Countryman", "rarity": "COMMON" },
+      { "name": "Cooper SE", "isElectric": true, "rarity": "COMMON" }
+    ]
+  },
+  {
+    "name": "Lotus", "countryCode": "GB",
+    "models": [
+      { "name": "Emira", "rarity": "EPIC" },
+      { "name": "Eletre", "isElectric": true, "rarity": "EPIC" },
+      { "name": "Elise", "rarity": "RARE" }
+    ]
+  },
+  {
+    "name": "Peugeot", "countryCode": "FR",
+    "models": [
+      { "name": "208", "rarity": "COMMON" },
+      { "name": "308", "rarity": "COMMON" },
+      { "name": "508", "rarity": "RARE" },
+      { "name": "2008", "rarity": "COMMON" },
+      { "name": "3008", "rarity": "COMMON" },
+      { "name": "5008", "rarity": "COMMON" },
+      { "name": "e-208", "isElectric": true, "rarity": "COMMON" }
+    ]
+  },
+  {
+    "name": "Renault", "countryCode": "FR",
+    "models": [
+      { "name": "Twingo", "rarity": "COMMON" },
+      { "name": "Clio", "rarity": "COMMON" },
+      { "name": "Megane", "rarity": "COMMON" },
+      { "name": "Captur", "rarity": "COMMON" },
+      { "name": "Arkana", "rarity": "COMMON" },
+      { "name": "Zoe", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Megane E-Tech", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Alpine A110", "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Citroën", "countryCode": "FR",
+    "models": [
+      { "name": "C3", "rarity": "COMMON" },
+      { "name": "C4", "rarity": "COMMON" },
+      { "name": "C5 Aircross", "rarity": "COMMON" },
+      { "name": "Berlingo", "rarity": "COMMON" },
+      { "name": "Ami", "isElectric": true, "rarity": "COMMON" }
+    ]
+  },
+  {
+    "name": "Bugatti", "countryCode": "FR",
+    "models": [
+      { "name": "Chiron", "hp": 1500, "rarity": "LEGENDARY" },
+      { "name": "Veyron", "hp": 1001, "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Volvo", "countryCode": "SE",
+    "models": [
+      { "name": "XC40", "rarity": "COMMON" },
+      { "name": "XC60", "rarity": "RARE" },
+      { "name": "XC90", "rarity": "EPIC" },
+      { "name": "V60", "rarity": "COMMON" },
+      { "name": "V90", "rarity": "RARE" },
+      { "name": "S60", "rarity": "COMMON" },
+      { "name": "S90", "rarity": "RARE" },
+      { "name": "EX30", "isElectric": true, "rarity": "RARE" },
+      { "name": "EX90", "isElectric": true, "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Polestar", "countryCode": "SE",
+    "models": [
+      { "name": "Polestar 2", "isElectric": true, "rarity": "RARE" },
+      { "name": "Polestar 3", "isElectric": true, "rarity": "EPIC" }
+    ]
+  },
+  {
+    "name": "Koenigsegg", "countryCode": "SE",
+    "models": [
+      { "name": "Jesko", "hp": 1600, "rarity": "LEGENDARY" },
+      { "name": "Gemera", "hp": 1700, "rarity": "LEGENDARY" }
+    ]
+  },
+  {
+    "name": "Hyundai", "countryCode": "KR",
+    "models": [
+      { "name": "i10", "rarity": "COMMON" },
+      { "name": "i20", "rarity": "COMMON" },
+      { "name": "i30", "rarity": "COMMON" },
+      { "name": "Kona", "rarity": "COMMON" },
+      { "name": "Tucson", "rarity": "COMMON" },
+      { "name": "Santa Fe", "rarity": "COMMON" },
+      { "name": "IONIQ 5", "isElectric": true, "rarity": "RARE" },
+      { "name": "IONIQ 6", "isElectric": true, "rarity": "RARE" }
+    ]
+  },
+  {
+    "name": "Kia", "countryCode": "KR",
+    "models": [
+      { "name": "Picanto", "rarity": "COMMON" },
+      { "name": "Rio", "rarity": "COMMON" },
+      { "name": "Ceed", "rarity": "COMMON" },
+      { "name": "Sportage", "rarity": "COMMON" },
+      { "name": "Sorento", "rarity": "COMMON" },
+      { "name": "EV6", "isElectric": true, "rarity": "RARE" },
+      { "name": "EV9", "isElectric": true, "rarity": "EPIC" },
+      { "name": "Stinger", "rarity": "RARE" }
+    ]
+  },
+  {
+    "name": "Genesis", "countryCode": "KR",
+    "models": [
+      { "name": "G70", "rarity": "RARE" },
+      { "name": "GV60", "isElectric": true, "rarity": "RARE" }
+    ]
+  },
+  {
     "name": "Skoda", "countryCode": "CZ",
     "models": [
       { "name": "Fabia", "rarity": "COMMON" },
@@ -237,203 +558,31 @@
     ]
   },
   {
-    "name": "Renault", "countryCode": "FR",
+    "name": "Dacia", "countryCode": "RO",
     "models": [
-      { "name": "Twingo", "rarity": "COMMON" },
-      { "name": "Clio", "rarity": "COMMON" },
-      { "name": "Megane", "rarity": "COMMON" },
-      { "name": "Captur", "rarity": "COMMON" },
-      { "name": "Arkana", "rarity": "COMMON" },
-      { "name": "Zoe", "isElectric": true, "rarity": "COMMON" },
-      { "name": "Megane E-Tech", "isElectric": true, "rarity": "COMMON" },
-      { "name": "Alpine A110", "rarity": "EPIC" }
+      { "name": "Sandero", "rarity": "COMMON" },
+      { "name": "Duster", "rarity": "COMMON" },
+      { "name": "Jogger", "rarity": "COMMON" },
+      { "name": "Spring", "isElectric": true, "rarity": "COMMON" }
     ]
   },
   {
-    "name": "Peugeot", "countryCode": "FR",
+    "name": "BYD", "countryCode": "CN",
     "models": [
-      { "name": "208", "rarity": "COMMON" },
-      { "name": "308", "rarity": "COMMON" },
-      { "name": "508", "rarity": "RARE" },
-      { "name": "2008", "rarity": "COMMON" },
-      { "name": "3008", "rarity": "COMMON" },
-      { "name": "5008", "rarity": "COMMON" },
-      { "name": "e-208", "isElectric": true, "rarity": "COMMON" }
+      { "name": "Atto 3", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Dolphin", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Seal", "isElectric": true, "rarity": "RARE" },
+      { "name": "Han", "isElectric": true, "rarity": "RARE" },
+      { "name": "Tang", "isElectric": true, "rarity": "RARE" }
     ]
   },
   {
-    "name": "Fiat", "countryCode": "IT",
+    "name": "MG", "countryCode": "GB",
     "models": [
-      { "name": "500", "rarity": "COMMON" },
-      { "name": "500e", "isElectric": true, "rarity": "COMMON" },
-      { "name": "Panda", "rarity": "COMMON" },
-      { "name": "Tipo", "rarity": "COMMON" },
-      { "name": "124 Spider", "rarity": "RARE" },
-      { "name": "Multipla", "rarity": "EPIC" }
-    ]
-  },
-  {
-    "name": "Alfa Romeo", "countryCode": "IT",
-    "models": [
-      { "name": "Giulia", "rarity": "EPIC" },
-      { "name": "Stelvio", "rarity": "EPIC" },
-      { "name": "Tonale", "rarity": "RARE" },
-      { "name": "4C", "rarity": "LEGENDARY" },
-      { "name": "Giulietta", "rarity": "RARE" }
-    ]
-  },
-  {
-    "name": "Volvo", "countryCode": "SE",
-    "models": [
-      { "name": "XC40", "rarity": "COMMON" },
-      { "name": "XC60", "rarity": "RARE" },
-      { "name": "XC90", "rarity": "EPIC" },
-      { "name": "V60", "rarity": "COMMON" },
-      { "name": "V90", "rarity": "RARE" },
-      { "name": "S60", "rarity": "COMMON" },
-      { "name": "S90", "rarity": "RARE" },
-      { "name": "EX30", "isElectric": true, "rarity": "RARE" },
-      { "name": "EX90", "isElectric": true, "rarity": "EPIC" }
-    ]
-  },
-  {
-    "name": "Polestar", "countryCode": "SE",
-    "models": [
-      { "name": "Polestar 2", "isElectric": true, "rarity": "RARE" },
-      { "name": "Polestar 3", "isElectric": true, "rarity": "EPIC" }
-    ]
-  },
-  {
-    "name": "Hyundai", "countryCode": "KR",
-    "models": [
-      { "name": "i10", "rarity": "COMMON" },
-      { "name": "i20", "rarity": "COMMON" },
-      { "name": "i30", "rarity": "COMMON" },
-      { "name": "Kona", "rarity": "COMMON" },
-      { "name": "Tucson", "rarity": "COMMON" },
-      { "name": "Santa Fe", "rarity": "COMMON" },
-      { "name": "IONIQ 5", "isElectric": true, "rarity": "RARE" },
-      { "name": "IONIQ 6", "isElectric": true, "rarity": "RARE" }
-    ]
-  },
-  {
-    "name": "Kia", "countryCode": "KR",
-    "models": [
-      { "name": "Picanto", "rarity": "COMMON" },
-      { "name": "Rio", "rarity": "COMMON" },
-      { "name": "Ceed", "rarity": "COMMON" },
-      { "name": "Sportage", "rarity": "COMMON" },
-      { "name": "Sorento", "rarity": "COMMON" },
-      { "name": "EV6", "isElectric": true, "rarity": "RARE" },
-      { "name": "EV9", "isElectric": true, "rarity": "EPIC" },
-      { "name": "Stinger", "rarity": "RARE" }
-    ]
-  },
-  {
-    "name": "Jeep", "countryCode": "US",
-    "models": [
-      { "name": "Renegade", "rarity": "COMMON" },
-      { "name": "Compass", "rarity": "COMMON" },
-      { "name": "Cherokee", "rarity": "COMMON" },
-      { "name": "Grand Cherokee", "rarity": "RARE" },
-      { "name": "Wrangler", "rarity": "RARE" },
-      { "name": "Gladiator", "rarity": "EPIC" },
-      { "name": "Avenger", "isElectric": true, "rarity": "RARE" }
-    ]
-  },
-  {
-    "name": "Ferrari", "countryCode": "IT",
-    "models": [
-      { "name": "488", "rarity": "EPIC" },
-      { "name": "F8 Tributo", "rarity": "EPIC" },
-      { "name": "Roma", "rarity": "EPIC" },
-      { "name": "Portofino", "rarity": "EPIC" },
-      { "name": "812 Superfast", "rarity": "LEGENDARY" },
-      { "name": "296 GTB", "rarity": "EPIC" },
-      { "name": "SF90", "rarity": "LEGENDARY" },
-      { "name": "Purosangue", "rarity": "LEGENDARY" },
-      { "name": "LaFerrari", "hp": 963, "rarity": "LEGENDARY" },
-      { "name": "F40", "hp": 478, "rarity": "LEGENDARY" }
-    ]
-  },
-  {
-    "name": "Lamborghini", "countryCode": "IT",
-    "models": [
-      { "name": "Huracán", "rarity": "EPIC" },
-      { "name": "Aventador", "rarity": "LEGENDARY" },
-      { "name": "Urus", "rarity": "EPIC" },
-      { "name": "Revuelto", "rarity": "LEGENDARY" },
-      { "name": "Countach", "rarity": "LEGENDARY" }
-    ]
-  },
-  {
-    "name": "Mini", "countryCode": "GB",
-    "models": [
-      { "name": "Cooper", "rarity": "COMMON" },
-      { "name": "Clubman", "rarity": "COMMON" },
-      { "name": "Countryman", "rarity": "COMMON" },
-      { "name": "Cooper SE", "isElectric": true, "rarity": "COMMON" }
-    ]
-  },
-  {
-    "name": "Land Rover", "countryCode": "GB",
-    "models": [
-      { "name": "Range Rover", "rarity": "EPIC" },
-      { "name": "Range Rover Sport", "rarity": "RARE" },
-      { "name": "Range Rover Evoque", "rarity": "COMMON" },
-      { "name": "Defender", "rarity": "RARE" },
-      { "name": "Discovery", "rarity": "RARE" }
-    ]
-  },
-  {
-    "name": "Jaguar", "countryCode": "GB",
-    "models": [
-      { "name": "F-Pace", "rarity": "RARE" },
-      { "name": "E-Pace", "rarity": "COMMON" },
-      { "name": "I-Pace", "isElectric": true, "rarity": "RARE" },
-      { "name": "F-Type", "rarity": "EPIC" }
-    ]
-  },
-  {
-    "name": "Bentley", "countryCode": "GB",
-    "models": [
-      { "name": "Continental GT", "rarity": "EPIC" },
-      { "name": "Bentayga", "rarity": "EPIC" },
-      { "name": "Flying Spur", "rarity": "EPIC" }
-    ]
-  },
-  {
-    "name": "Rolls-Royce", "countryCode": "GB",
-    "models": [
-      { "name": "Phantom", "rarity": "LEGENDARY" },
-      { "name": "Ghost", "rarity": "LEGENDARY" },
-      { "name": "Cullinan", "rarity": "LEGENDARY" },
-      { "name": "Spectre", "isElectric": true, "rarity": "LEGENDARY" }
-    ]
-  },
-  {
-    "name": "Bugatti", "countryCode": "FR",
-    "models": [
-      { "name": "Chiron", "hp": 1500, "rarity": "LEGENDARY" },
-      { "name": "Veyron", "hp": 1001, "rarity": "LEGENDARY" }
-    ]
-  },
-  {
-    "name": "Dodge", "countryCode": "US",
-    "models": [
-      { "name": "Challenger", "rarity": "RARE" },
-      { "name": "Charger", "rarity": "RARE" },
-      { "name": "Durango", "rarity": "RARE" },
-      { "name": "Ram 1500", "rarity": "COMMON" }
-    ]
-  },
-  {
-    "name": "Chevrolet", "countryCode": "US",
-    "models": [
-      { "name": "Camaro", "rarity": "RARE" },
-      { "name": "Corvette", "rarity": "EPIC" },
-      { "name": "Silverado", "rarity": "COMMON" },
-      { "name": "Tahoe", "rarity": "COMMON" }
+      { "name": "MG4", "isElectric": true, "rarity": "COMMON" },
+      { "name": "ZS", "rarity": "COMMON" },
+      { "name": "HS", "rarity": "COMMON" },
+      { "name": "Cyberster", "isElectric": true, "rarity": "EPIC" }
     ]
   }
 ]
