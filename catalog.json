@@ -1,420 +1,439 @@
 [
   {
-    "name": "Audi",
-    "countryCode": "DE",
+    "name": "Volkswagen", "countryCode": "DE",
     "models": [
-      { "name": "A1", "year": 2018, "rarity": "COMMON" },
-      { "name": "A3", "year": 2020, "rarity": "COMMON" },
-      { "name": "A4", "year": 2020, "rarity": "COMMON" },
-      { "name": "A5", "year": 2020, "rarity": "COMMON" },
-      { "name": "A6", "year": 2021, "rarity": "COMMON" },
-      { "name": "A7", "year": 2021, "rarity": "RARE" },
-      { "name": "A8", "year": 2022, "rarity": "RARE" },
-      { "name": "Q3", "year": 2020, "rarity": "COMMON" },
-      { "name": "Q4 e-tron", "year": 2023, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Q5", "year": 2021, "rarity": "COMMON" },
-      { "name": "Q7", "year": 2020, "rarity": "COMMON" },
-      { "name": "Q8", "year": 2021, "rarity": "RARE" },
-      { "name": "e-tron GT", "year": 2022, "isElectric": true, "rarity": "EPIC" },
-      { "name": "R8", "year": 2019, "hp": 620, "rarity": "LEGENDARY" },
-      { "name": "RS6 Avant", "year": 2021, "hp": 600, "rarity": "EPIC" }
+      { "name": "Golf", "rarity": "COMMON" },
+      { "name": "Polo", "rarity": "COMMON" },
+      { "name": "Passat", "rarity": "COMMON" },
+      { "name": "Tiguan", "rarity": "COMMON" },
+      { "name": "T-Roc", "rarity": "COMMON" },
+      { "name": "T-Cross", "rarity": "COMMON" },
+      { "name": "Touareg", "rarity": "RARE" },
+      { "name": "Arteon", "rarity": "RARE" },
+      { "name": "up!", "rarity": "COMMON" },
+      { "name": "Beetle", "rarity": "EPIC" },
+      { "name": "Scirocco", "rarity": "RARE" },
+      { "name": "ID.3", "isElectric": true, "rarity": "COMMON" },
+      { "name": "ID.4", "isElectric": true, "rarity": "COMMON" },
+      { "name": "ID.5", "isElectric": true, "rarity": "RARE" },
+      { "name": "ID.7", "isElectric": true, "rarity": "RARE" },
+      { "name": "ID.Buzz", "isElectric": true, "rarity": "EPIC" }
     ]
   },
   {
-    "name": "BMW",
-    "countryCode": "DE",
+    "name": "Audi", "countryCode": "DE",
     "models": [
-      { "name": "1 Series", "year": 2020, "rarity": "COMMON" },
-      { "name": "3 Series", "year": 2022, "rarity": "COMMON" },
-      { "name": "4 Series", "year": 2021, "rarity": "COMMON" },
-      { "name": "5 Series", "year": 2023, "rarity": "COMMON" },
-      { "name": "7 Series", "year": 2023, "rarity": "RARE" },
-      { "name": "X1", "year": 2022, "rarity": "COMMON" },
-      { "name": "X3", "year": 2021, "rarity": "COMMON" },
-      { "name": "X5", "year": 2020, "rarity": "COMMON" },
-      { "name": "XM", "year": 2023, "hp": 653, "rarity": "EPIC" },
-      { "name": "i4", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "iX", "year": 2022, "isElectric": true, "rarity": "RARE" },
-      { "name": "M3", "year": 2021, "hp": 510, "rarity": "EPIC" },
-      { "name": "M4", "year": 2021, "hp": 510, "rarity": "EPIC" }
+      { "name": "A1", "rarity": "COMMON" },
+      { "name": "A3", "rarity": "COMMON" },
+      { "name": "A4", "rarity": "COMMON" },
+      { "name": "A5", "rarity": "COMMON" },
+      { "name": "A6", "rarity": "COMMON" },
+      { "name": "A7", "rarity": "RARE" },
+      { "name": "A8", "rarity": "EPIC" },
+      { "name": "Q2", "rarity": "COMMON" },
+      { "name": "Q3", "rarity": "COMMON" },
+      { "name": "Q5", "rarity": "COMMON" },
+      { "name": "Q7", "rarity": "RARE" },
+      { "name": "Q8", "rarity": "EPIC" },
+      { "name": "TT", "rarity": "RARE" },
+      { "name": "R8", "hp": 620, "rarity": "LEGENDARY" },
+      { "name": "RS6 Avant", "hp": 600, "rarity": "EPIC" },
+      { "name": "e-tron GT", "isElectric": true, "rarity": "EPIC" },
+      { "name": "Q4 e-tron", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Q8 e-tron", "isElectric": true, "rarity": "RARE" }
     ]
   },
   {
-    "name": "Mercedes-Benz",
-    "countryCode": "DE",
+    "name": "BMW", "countryCode": "DE",
     "models": [
-      { "name": "A-Class", "year": 2020, "rarity": "COMMON" },
-      { "name": "C-Class", "year": 2021, "rarity": "COMMON" },
-      { "name": "E-Class", "year": 2023, "rarity": "COMMON" },
-      { "name": "S-Class", "year": 2022, "rarity": "RARE" },
-      { "name": "G-Class", "year": 2021, "rarity": "EPIC" },
-      { "name": "GLC", "year": 2022, "rarity": "COMMON" },
-      { "name": "GLE", "year": 2021, "rarity": "COMMON" },
-      { "name": "AMG GT", "year": 2023, "hp": 585, "rarity": "LEGENDARY" },
-      { "name": "EQE", "year": 2023, "isElectric": true, "rarity": "RARE" },
-      { "name": "EQS", "year": 2022, "isElectric": true, "rarity": "EPIC" }
+      { "name": "1 Series", "rarity": "COMMON" },
+      { "name": "2 Series", "rarity": "COMMON" },
+      { "name": "3 Series", "rarity": "COMMON" },
+      { "name": "4 Series", "rarity": "COMMON" },
+      { "name": "5 Series", "rarity": "COMMON" },
+      { "name": "7 Series", "rarity": "EPIC" },
+      { "name": "8 Series", "rarity": "EPIC" },
+      { "name": "X1", "rarity": "COMMON" },
+      { "name": "X3", "rarity": "COMMON" },
+      { "name": "X5", "rarity": "RARE" },
+      { "name": "X6", "rarity": "RARE" },
+      { "name": "X7", "rarity": "EPIC" },
+      { "name": "Z4", "rarity": "RARE" },
+      { "name": "M3", "hp": 510, "rarity": "EPIC" },
+      { "name": "M4", "hp": 510, "rarity": "EPIC" },
+      { "name": "M5", "hp": 625, "rarity": "EPIC" },
+      { "name": "XM", "hp": 653, "rarity": "LEGENDARY" },
+      { "name": "i3", "isElectric": true, "rarity": "COMMON" },
+      { "name": "i4", "isElectric": true, "rarity": "COMMON" },
+      { "name": "iX", "isElectric": true, "rarity": "RARE" },
+      { "name": "i7", "isElectric": true, "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Volkswagen",
-    "countryCode": "DE",
+    "name": "Mercedes-Benz", "countryCode": "DE",
     "models": [
-      { "name": "Golf", "year": 2020, "rarity": "COMMON" },
-      { "name": "Polo", "year": 2021, "rarity": "COMMON" },
-      { "name": "Passat", "year": 2023, "rarity": "COMMON" },
-      { "name": "Tiguan", "year": 2023, "rarity": "COMMON" },
-      { "name": "T-Roc", "year": 2020, "rarity": "COMMON" },
-      { "name": "Beetle", "year": 1965, "rarity": "EPIC" },
-      { "name": "ID.3", "year": 2021, "isElectric": true, "rarity": "COMMON" },
-      { "name": "ID.4", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "ID.Buzz", "year": 2022, "isElectric": true, "rarity": "EPIC" }
+      { "name": "A-Class", "rarity": "COMMON" },
+      { "name": "B-Class", "rarity": "COMMON" },
+      { "name": "C-Class", "rarity": "COMMON" },
+      { "name": "E-Class", "rarity": "COMMON" },
+      { "name": "S-Class", "rarity": "EPIC" },
+      { "name": "CLA", "rarity": "COMMON" },
+      { "name": "GLA", "rarity": "COMMON" },
+      { "name": "GLC", "rarity": "COMMON" },
+      { "name": "GLE", "rarity": "RARE" },
+      { "name": "GLS", "rarity": "EPIC" },
+      { "name": "G-Class", "rarity": "EPIC" },
+      { "name": "SL", "rarity": "EPIC" },
+      { "name": "AMG GT", "hp": 585, "rarity": "LEGENDARY" },
+      { "name": "EQA", "isElectric": true, "rarity": "COMMON" },
+      { "name": "EQC", "isElectric": true, "rarity": "RARE" },
+      { "name": "EQE", "isElectric": true, "rarity": "RARE" },
+      { "name": "EQS", "isElectric": true, "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Porsche",
-    "countryCode": "DE",
+    "name": "Opel", "countryCode": "DE",
     "models": [
-      { "name": "911", "year": 2023, "rarity": "EPIC" },
-      { "name": "911 GT3 RS", "year": 2023, "hp": 525, "rarity": "LEGENDARY" },
-      { "name": "718 Cayman", "year": 2020, "rarity": "RARE" },
-      { "name": "Panamera", "year": 2021, "rarity": "RARE" },
-      { "name": "Macan", "year": 2022, "rarity": "COMMON" },
-      { "name": "Cayenne", "year": 2022, "rarity": "COMMON" },
-      { "name": "Taycan", "year": 2022, "isElectric": true, "hp": 408, "rarity": "RARE" }
+      { "name": "Corsa", "rarity": "COMMON" },
+      { "name": "Astra", "rarity": "COMMON" },
+      { "name": "Insignia", "rarity": "COMMON" },
+      { "name": "Mokka", "rarity": "COMMON" },
+      { "name": "Crossland", "rarity": "COMMON" },
+      { "name": "Grandland", "rarity": "COMMON" },
+      { "name": "Zafira", "rarity": "COMMON" },
+      { "name": "Adam", "rarity": "COMMON" },
+      { "name": "Manta", "rarity": "EPIC" },
+      { "name": "GT", "rarity": "RARE" }
     ]
   },
   {
-    "name": "Honda",
-    "countryCode": "JP",
+    "name": "Porsche", "countryCode": "DE",
     "models": [
-      { "name": "Civic", "year": 2022, "rarity": "COMMON" },
-      { "name": "Civic Type R", "year": 2023, "hp": 329, "rarity": "EPIC" },
-      { "name": "CR-V", "year": 2023, "rarity": "COMMON" },
-      { "name": "HR-V", "year": 2022, "rarity": "COMMON" },
-      { "name": "Jazz", "year": 2020, "rarity": "COMMON" },
-      { "name": "NSX", "year": 2016, "hp": 581, "rarity": "LEGENDARY" },
-      { "name": "S2000", "year": 2005, "rarity": "EPIC" },
-      { "name": "e", "year": 2020, "isElectric": true, "rarity": "RARE" }
+      { "name": "911", "rarity": "EPIC" },
+      { "name": "718 Cayman", "rarity": "RARE" },
+      { "name": "718 Boxster", "rarity": "RARE" },
+      { "name": "Panamera", "rarity": "EPIC" },
+      { "name": "Macan", "rarity": "RARE" },
+      { "name": "Cayenne", "rarity": "RARE" },
+      { "name": "Taycan", "isElectric": true, "rarity": "EPIC" },
+      { "name": "Macan Electric", "isElectric": true, "rarity": "EPIC" },
+      { "name": "918 Spyder", "hp": 887, "rarity": "LEGENDARY" },
+      { "name": "Carrera GT", "hp": 612, "rarity": "LEGENDARY" },
+      { "name": "911 GT3 RS", "hp": 525, "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Toyota",
-    "countryCode": "JP",
+    "name": "Ford", "countryCode": "US",
     "models": [
-      { "name": "Yaris", "year": 2021, "rarity": "COMMON" },
-      { "name": "Corolla", "year": 2022, "rarity": "COMMON" },
-      { "name": "Prius", "year": 2023, "rarity": "COMMON" },
-      { "name": "RAV4", "year": 2022, "rarity": "COMMON" },
-      { "name": "Land Cruiser", "year": 2023, "rarity": "RARE" },
-      { "name": "Supra", "year": 2021, "hp": 340, "rarity": "EPIC" },
-      { "name": "GR86", "year": 2022, "rarity": "RARE" },
-      { "name": "bZ4X", "year": 2023, "isElectric": true, "rarity": "RARE" }
+      { "name": "Fiesta", "rarity": "COMMON" },
+      { "name": "Focus", "rarity": "COMMON" },
+      { "name": "Puma", "rarity": "COMMON" },
+      { "name": "Kuga", "rarity": "COMMON" },
+      { "name": "Mondeo", "rarity": "COMMON" },
+      { "name": "Mustang", "rarity": "RARE" },
+      { "name": "Explorer", "rarity": "RARE" },
+      { "name": "Ranger", "rarity": "COMMON" },
+      { "name": "F-150", "rarity": "RARE" },
+      { "name": "Bronco", "rarity": "RARE" },
+      { "name": "Mustang Mach-E", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Ford GT", "hp": 660, "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Nissan",
-    "countryCode": "JP",
+    "name": "Tesla", "countryCode": "US",
     "models": [
-      { "name": "Qashqai", "year": 2021, "rarity": "COMMON" },
-      { "name": "Juke", "year": 2020, "rarity": "COMMON" },
-      { "name": "X-Trail", "year": 2022, "rarity": "COMMON" },
-      { "name": "Micra", "year": 2019, "rarity": "COMMON" },
-      { "name": "GT-R", "year": 2020, "hp": 570, "rarity": "LEGENDARY" },
-      { "name": "370Z", "year": 2018, "rarity": "RARE" },
-      { "name": "Z", "year": 2023, "hp": 400, "rarity": "EPIC" },
-      { "name": "Leaf", "year": 2018, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Ariya", "year": 2022, "isElectric": true, "rarity": "RARE" }
+      { "name": "Model 3", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Model Y", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Model S", "isElectric": true, "rarity": "RARE" },
+      { "name": "Model X", "isElectric": true, "rarity": "RARE" },
+      { "name": "Cybertruck", "isElectric": true, "rarity": "EPIC" },
+      { "name": "Roadster", "isElectric": true, "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Mazda",
-    "countryCode": "JP",
+    "name": "Toyota", "countryCode": "JP",
     "models": [
-      { "name": "Mazda3", "year": 2019, "rarity": "COMMON" },
-      { "name": "CX-5", "year": 2021, "rarity": "COMMON" },
-      { "name": "CX-30", "year": 2020, "rarity": "COMMON" },
-      { "name": "CX-60", "year": 2022, "rarity": "RARE" },
-      { "name": "MX-5 Miata", "year": 2020, "rarity": "EPIC" },
-      { "name": "RX-7", "year": 1995, "rarity": "LEGENDARY" }
+      { "name": "Yaris", "rarity": "COMMON" },
+      { "name": "Corolla", "rarity": "COMMON" },
+      { "name": "Prius", "rarity": "COMMON" },
+      { "name": "RAV4", "rarity": "COMMON" },
+      { "name": "C-HR", "rarity": "COMMON" },
+      { "name": "Aygo", "rarity": "COMMON" },
+      { "name": "Land Cruiser", "rarity": "RARE" },
+      { "name": "Hilux", "rarity": "COMMON" },
+      { "name": "Supra", "hp": 340, "rarity": "EPIC" },
+      { "name": "GR86", "rarity": "RARE" },
+      { "name": "bZ4X", "isElectric": true, "rarity": "COMMON" }
     ]
   },
   {
-    "name": "Subaru",
-    "countryCode": "JP",
+    "name": "Honda", "countryCode": "JP",
     "models": [
-      { "name": "Impreza", "year": 2019, "rarity": "COMMON" },
-      { "name": "Outback", "year": 2021, "rarity": "COMMON" },
-      { "name": "Forester", "year": 2020, "rarity": "COMMON" },
-      { "name": "WRX STI", "year": 2018, "rarity": "EPIC" },
-      { "name": "BRZ", "year": 2022, "rarity": "RARE" },
-      { "name": "Solterra", "year": 2023, "isElectric": true, "rarity": "RARE" }
+      { "name": "Civic", "rarity": "COMMON" },
+      { "name": "Jazz", "rarity": "COMMON" },
+      { "name": "HR-V", "rarity": "COMMON" },
+      { "name": "CR-V", "rarity": "COMMON" },
+      { "name": "e", "isElectric": true, "rarity": "RARE" },
+      { "name": "NSX", "hp": 581, "rarity": "LEGENDARY" },
+      { "name": "S2000", "rarity": "EPIC" },
+      { "name": "Civic Type R", "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Ford",
-    "countryCode": "US",
+    "name": "Nissan", "countryCode": "JP",
     "models": [
-      { "name": "Fiesta", "year": 2019, "rarity": "COMMON" },
-      { "name": "Focus", "year": 2020, "rarity": "COMMON" },
-      { "name": "Puma", "year": 2021, "rarity": "COMMON" },
-      { "name": "Kuga", "year": 2022, "rarity": "COMMON" },
-      { "name": "Mustang", "year": 2023, "hp": 450, "rarity": "RARE" },
-      { "name": "Mustang Mach-E", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Explorer", "year": 2021, "rarity": "COMMON" },
-      { "name": "F-150", "year": 2022, "rarity": "COMMON" },
-      { "name": "Bronco", "year": 2022, "rarity": "RARE" },
-      { "name": "GT", "year": 2018, "hp": 656, "rarity": "LEGENDARY" }
+      { "name": "Micra", "rarity": "COMMON" },
+      { "name": "Qashqai", "rarity": "COMMON" },
+      { "name": "Juke", "rarity": "COMMON" },
+      { "name": "X-Trail", "rarity": "COMMON" },
+      { "name": "Leaf", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Ariya", "isElectric": true, "rarity": "RARE" },
+      { "name": "370Z", "rarity": "RARE" },
+      { "name": "GT-R", "hp": 570, "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Chevrolet",
-    "countryCode": "US",
+    "name": "Mazda", "countryCode": "JP",
     "models": [
-      { "name": "Corvette", "year": 2023, "hp": 495, "rarity": "EPIC" },
-      { "name": "Camaro", "year": 2020, "rarity": "RARE" },
-      { "name": "Silverado", "year": 2022, "rarity": "COMMON" },
-      { "name": "Tahoe", "year": 2021, "rarity": "COMMON" },
-      { "name": "Suburban", "year": 2021, "rarity": "COMMON" },
-      { "name": "Bolt EV", "year": 2020, "isElectric": true, "rarity": "COMMON" }
+      { "name": "Mazda2", "rarity": "COMMON" },
+      { "name": "Mazda3", "rarity": "COMMON" },
+      { "name": "Mazda6", "rarity": "COMMON" },
+      { "name": "CX-30", "rarity": "COMMON" },
+      { "name": "CX-5", "rarity": "COMMON" },
+      { "name": "CX-60", "rarity": "RARE" },
+      { "name": "MX-5 Miata", "rarity": "RARE" },
+      { "name": "RX-7", "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Jeep",
-    "countryCode": "US",
+    "name": "Skoda", "countryCode": "CZ",
     "models": [
-      { "name": "Wrangler", "year": 2021, "rarity": "RARE" },
-      { "name": "Grand Cherokee", "year": 2022, "rarity": "COMMON" },
-      { "name": "Compass", "year": 2020, "rarity": "COMMON" },
-      { "name": "Renegade", "year": 2019, "rarity": "COMMON" },
-      { "name": "Avenger", "year": 2023, "isElectric": true, "rarity": "RARE" }
+      { "name": "Fabia", "rarity": "COMMON" },
+      { "name": "Octavia", "rarity": "COMMON" },
+      { "name": "Superb", "rarity": "COMMON" },
+      { "name": "Kamiq", "rarity": "COMMON" },
+      { "name": "Karoq", "rarity": "COMMON" },
+      { "name": "Kodiaq", "rarity": "COMMON" },
+      { "name": "Enyaq", "isElectric": true, "rarity": "COMMON" }
     ]
   },
   {
-    "name": "Tesla",
-    "countryCode": "US",
+    "name": "Seat", "countryCode": "ES",
     "models": [
-      { "name": "Model 3", "year": 2023, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Model Y", "year": 2023, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Model S", "year": 2022, "isElectric": true, "rarity": "RARE" },
-      { "name": "Model X", "year": 2022, "isElectric": true, "rarity": "RARE" },
-      { "name": "Cybertruck", "year": 2024, "isElectric": true, "hp": 845, "rarity": "EPIC" }
+      { "name": "Ibiza", "rarity": "COMMON" },
+      { "name": "Leon", "rarity": "COMMON" },
+      { "name": "Arona", "rarity": "COMMON" },
+      { "name": "Ateca", "rarity": "COMMON" },
+      { "name": "Tarraco", "rarity": "COMMON" }
     ]
   },
   {
-    "name": "Rivian",
-    "countryCode": "US",
+    "name": "Cupra", "countryCode": "ES",
     "models": [
-      { "name": "R1T", "year": 2022, "isElectric": true, "rarity": "EPIC" },
-      { "name": "R1S", "year": 2023, "isElectric": true, "rarity": "EPIC" }
+      { "name": "Formentor", "rarity": "RARE" },
+      { "name": "Leon", "rarity": "RARE" },
+      { "name": "Born", "isElectric": true, "rarity": "RARE" },
+      { "name": "Tavascan", "isElectric": true, "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Fiat",
-    "countryCode": "IT",
+    "name": "Renault", "countryCode": "FR",
     "models": [
-      { "name": "500", "year": 2020, "rarity": "COMMON" },
-      { "name": "500e", "year": 2021, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Panda", "year": 2019, "rarity": "COMMON" },
-      { "name": "Tipo", "year": 2020, "rarity": "COMMON" },
-      { "name": "124 Spider", "year": 2018, "rarity": "RARE" },
-      { "name": "Multipla", "year": 2000, "rarity": "EPIC" }
+      { "name": "Twingo", "rarity": "COMMON" },
+      { "name": "Clio", "rarity": "COMMON" },
+      { "name": "Megane", "rarity": "COMMON" },
+      { "name": "Captur", "rarity": "COMMON" },
+      { "name": "Arkana", "rarity": "COMMON" },
+      { "name": "Zoe", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Megane E-Tech", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Alpine A110", "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Alfa Romeo",
-    "countryCode": "IT",
+    "name": "Peugeot", "countryCode": "FR",
     "models": [
-      { "name": "Giulia", "year": 2020, "rarity": "RARE" },
-      { "name": "Stelvio", "year": 2020, "rarity": "RARE" },
-      { "name": "Tonale", "year": 2023, "rarity": "RARE" },
-      { "name": "4C", "year": 2016, "rarity": "EPIC" },
-      { "name": "Spider", "year": 1990, "rarity": "EPIC" }
+      { "name": "208", "rarity": "COMMON" },
+      { "name": "308", "rarity": "COMMON" },
+      { "name": "508", "rarity": "RARE" },
+      { "name": "2008", "rarity": "COMMON" },
+      { "name": "3008", "rarity": "COMMON" },
+      { "name": "5008", "rarity": "COMMON" },
+      { "name": "e-208", "isElectric": true, "rarity": "COMMON" }
     ]
   },
   {
-    "name": "Ferrari",
-    "countryCode": "IT",
+    "name": "Fiat", "countryCode": "IT",
     "models": [
-      { "name": "488 GTB", "year": 2018, "hp": 670, "rarity": "EPIC" },
-      { "name": "F8 Tributo", "year": 2020, "hp": 720, "rarity": "EPIC" },
-      { "name": "Roma", "year": 2021, "hp": 620, "rarity": "RARE" },
-      { "name": "SF90 Stradale", "year": 2020, "hp": 1000, "rarity": "LEGENDARY" },
-      { "name": "LaFerrari", "year": 2013, "hp": 963, "rarity": "LEGENDARY" },
-      { "name": "F40", "year": 1987, "hp": 478, "rarity": "LEGENDARY" }
+      { "name": "500", "rarity": "COMMON" },
+      { "name": "500e", "isElectric": true, "rarity": "COMMON" },
+      { "name": "Panda", "rarity": "COMMON" },
+      { "name": "Tipo", "rarity": "COMMON" },
+      { "name": "124 Spider", "rarity": "RARE" },
+      { "name": "Multipla", "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Lamborghini",
-    "countryCode": "IT",
+    "name": "Alfa Romeo", "countryCode": "IT",
     "models": [
-      { "name": "Huracán", "year": 2019, "hp": 610, "rarity": "EPIC" },
-      { "name": "Aventador", "year": 2018, "hp": 740, "rarity": "LEGENDARY" },
-      { "name": "Revuelto", "year": 2023, "hp": 1015, "rarity": "LEGENDARY" },
-      { "name": "Urus", "year": 2021, "hp": 650, "rarity": "RARE" },
-      { "name": "Countach", "year": 1980, "rarity": "LEGENDARY" }
+      { "name": "Giulia", "rarity": "EPIC" },
+      { "name": "Stelvio", "rarity": "EPIC" },
+      { "name": "Tonale", "rarity": "RARE" },
+      { "name": "4C", "rarity": "LEGENDARY" },
+      { "name": "Giulietta", "rarity": "RARE" }
     ]
   },
   {
-    "name": "Jaguar",
-    "countryCode": "GB",
+    "name": "Volvo", "countryCode": "SE",
     "models": [
-      { "name": "F-Pace", "year": 2021, "rarity": "COMMON" },
-      { "name": "E-Pace", "year": 2020, "rarity": "COMMON" },
-      { "name": "I-Pace", "year": 2020, "isElectric": true, "rarity": "RARE" },
-      { "name": "F-Type", "year": 2020, "rarity": "EPIC" },
-      { "name": "E-Type", "year": 1961, "rarity": "LEGENDARY" }
+      { "name": "XC40", "rarity": "COMMON" },
+      { "name": "XC60", "rarity": "RARE" },
+      { "name": "XC90", "rarity": "EPIC" },
+      { "name": "V60", "rarity": "COMMON" },
+      { "name": "V90", "rarity": "RARE" },
+      { "name": "S60", "rarity": "COMMON" },
+      { "name": "S90", "rarity": "RARE" },
+      { "name": "EX30", "isElectric": true, "rarity": "RARE" },
+      { "name": "EX90", "isElectric": true, "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Land Rover",
-    "countryCode": "GB",
+    "name": "Polestar", "countryCode": "SE",
     "models": [
-      { "name": "Range Rover", "year": 2022, "rarity": "RARE" },
-      { "name": "Range Rover Sport", "year": 2022, "rarity": "COMMON" },
-      { "name": "Range Rover Evoque", "year": 2021, "rarity": "COMMON" },
-      { "name": "Defender", "year": 2021, "rarity": "RARE" },
-      { "name": "Discovery", "year": 2020, "rarity": "COMMON" }
+      { "name": "Polestar 2", "isElectric": true, "rarity": "RARE" },
+      { "name": "Polestar 3", "isElectric": true, "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Mini",
-    "countryCode": "GB",
+    "name": "Hyundai", "countryCode": "KR",
     "models": [
-      { "name": "Cooper", "year": 2021, "rarity": "COMMON" },
-      { "name": "Countryman", "year": 2021, "rarity": "COMMON" },
-      { "name": "Clubman", "year": 2020, "rarity": "COMMON" },
-      { "name": "Cooper SE", "year": 2022, "isElectric": true, "rarity": "COMMON" }
+      { "name": "i10", "rarity": "COMMON" },
+      { "name": "i20", "rarity": "COMMON" },
+      { "name": "i30", "rarity": "COMMON" },
+      { "name": "Kona", "rarity": "COMMON" },
+      { "name": "Tucson", "rarity": "COMMON" },
+      { "name": "Santa Fe", "rarity": "COMMON" },
+      { "name": "IONIQ 5", "isElectric": true, "rarity": "RARE" },
+      { "name": "IONIQ 6", "isElectric": true, "rarity": "RARE" }
     ]
   },
   {
-    "name": "Bentley",
-    "countryCode": "GB",
+    "name": "Kia", "countryCode": "KR",
     "models": [
-      { "name": "Continental GT", "year": 2021, "hp": 635, "rarity": "EPIC" },
-      { "name": "Bentayga", "year": 2020, "hp": 550, "rarity": "EPIC" },
-      { "name": "Flying Spur", "year": 2021, "rarity": "EPIC" }
+      { "name": "Picanto", "rarity": "COMMON" },
+      { "name": "Rio", "rarity": "COMMON" },
+      { "name": "Ceed", "rarity": "COMMON" },
+      { "name": "Sportage", "rarity": "COMMON" },
+      { "name": "Sorento", "rarity": "COMMON" },
+      { "name": "EV6", "isElectric": true, "rarity": "RARE" },
+      { "name": "EV9", "isElectric": true, "rarity": "EPIC" },
+      { "name": "Stinger", "rarity": "RARE" }
     ]
   },
   {
-    "name": "Rolls-Royce",
-    "countryCode": "GB",
+    "name": "Jeep", "countryCode": "US",
     "models": [
-      { "name": "Phantom", "year": 2020, "rarity": "LEGENDARY" },
-      { "name": "Ghost", "year": 2021, "rarity": "LEGENDARY" },
-      { "name": "Cullinan", "year": 2022, "rarity": "LEGENDARY" },
-      { "name": "Spectre", "year": 2024, "isElectric": true, "rarity": "LEGENDARY" }
+      { "name": "Renegade", "rarity": "COMMON" },
+      { "name": "Compass", "rarity": "COMMON" },
+      { "name": "Cherokee", "rarity": "COMMON" },
+      { "name": "Grand Cherokee", "rarity": "RARE" },
+      { "name": "Wrangler", "rarity": "RARE" },
+      { "name": "Gladiator", "rarity": "EPIC" },
+      { "name": "Avenger", "isElectric": true, "rarity": "RARE" }
     ]
   },
   {
-    "name": "Aston Martin",
-    "countryCode": "GB",
+    "name": "Ferrari", "countryCode": "IT",
     "models": [
-      { "name": "DB11", "year": 2020, "rarity": "EPIC" },
-      { "name": "DB12", "year": 2024, "rarity": "EPIC" },
-      { "name": "Vantage", "year": 2021, "rarity": "EPIC" },
-      { "name": "DBX", "year": 2021, "rarity": "EPIC" },
-      { "name": "DB5", "year": 1964, "rarity": "LEGENDARY" }
+      { "name": "488", "rarity": "EPIC" },
+      { "name": "F8 Tributo", "rarity": "EPIC" },
+      { "name": "Roma", "rarity": "EPIC" },
+      { "name": "Portofino", "rarity": "EPIC" },
+      { "name": "812 Superfast", "rarity": "LEGENDARY" },
+      { "name": "296 GTB", "rarity": "EPIC" },
+      { "name": "SF90", "rarity": "LEGENDARY" },
+      { "name": "Purosangue", "rarity": "LEGENDARY" },
+      { "name": "LaFerrari", "hp": 963, "rarity": "LEGENDARY" },
+      { "name": "F40", "hp": 478, "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Peugeot",
-    "countryCode": "FR",
+    "name": "Lamborghini", "countryCode": "IT",
     "models": [
-      { "name": "208", "year": 2021, "rarity": "COMMON" },
-      { "name": "2008", "year": 2021, "rarity": "COMMON" },
-      { "name": "308", "year": 2022, "rarity": "COMMON" },
-      { "name": "3008", "year": 2021, "rarity": "COMMON" },
-      { "name": "508", "year": 2020, "rarity": "RARE" },
-      { "name": "e-208", "year": 2022, "isElectric": true, "rarity": "COMMON" }
+      { "name": "Huracán", "rarity": "EPIC" },
+      { "name": "Aventador", "rarity": "LEGENDARY" },
+      { "name": "Urus", "rarity": "EPIC" },
+      { "name": "Revuelto", "rarity": "LEGENDARY" },
+      { "name": "Countach", "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Renault",
-    "countryCode": "FR",
+    "name": "Mini", "countryCode": "GB",
     "models": [
-      { "name": "Clio", "year": 2021, "rarity": "COMMON" },
-      { "name": "Captur", "year": 2021, "rarity": "COMMON" },
-      { "name": "Megane", "year": 2020, "rarity": "COMMON" },
-      { "name": "Megane E-Tech", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Zoe", "year": 2020, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Twingo", "year": 2020, "rarity": "COMMON" }
+      { "name": "Cooper", "rarity": "COMMON" },
+      { "name": "Clubman", "rarity": "COMMON" },
+      { "name": "Countryman", "rarity": "COMMON" },
+      { "name": "Cooper SE", "isElectric": true, "rarity": "COMMON" }
     ]
   },
   {
-    "name": "Cupra",
-    "countryCode": "ES",
+    "name": "Land Rover", "countryCode": "GB",
     "models": [
-      { "name": "Formentor", "year": 2021, "rarity": "COMMON" },
-      { "name": "Leon", "year": 2021, "rarity": "COMMON" },
-      { "name": "Born", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Tavascan", "year": 2024, "isElectric": true, "rarity": "RARE" }
+      { "name": "Range Rover", "rarity": "EPIC" },
+      { "name": "Range Rover Sport", "rarity": "RARE" },
+      { "name": "Range Rover Evoque", "rarity": "COMMON" },
+      { "name": "Defender", "rarity": "RARE" },
+      { "name": "Discovery", "rarity": "RARE" }
     ]
   },
   {
-    "name": "Polestar",
-    "countryCode": "SE",
+    "name": "Jaguar", "countryCode": "GB",
     "models": [
-      { "name": "Polestar 2", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Polestar 3", "year": 2024, "isElectric": true, "rarity": "RARE" }
+      { "name": "F-Pace", "rarity": "RARE" },
+      { "name": "E-Pace", "rarity": "COMMON" },
+      { "name": "I-Pace", "isElectric": true, "rarity": "RARE" },
+      { "name": "F-Type", "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Volvo",
-    "countryCode": "SE",
+    "name": "Bentley", "countryCode": "GB",
     "models": [
-      { "name": "XC40", "year": 2021, "rarity": "COMMON" },
-      { "name": "XC60", "year": 2022, "rarity": "COMMON" },
-      { "name": "XC90", "year": 2021, "rarity": "RARE" },
-      { "name": "EX30", "year": 2024, "isElectric": true, "rarity": "RARE" },
-      { "name": "EX90", "year": 2024, "isElectric": true, "rarity": "EPIC" }
+      { "name": "Continental GT", "rarity": "EPIC" },
+      { "name": "Bentayga", "rarity": "EPIC" },
+      { "name": "Flying Spur", "rarity": "EPIC" }
     ]
   },
   {
-    "name": "Hyundai",
-    "countryCode": "KR",
+    "name": "Rolls-Royce", "countryCode": "GB",
     "models": [
-      { "name": "i10", "year": 2021, "rarity": "COMMON" },
-      { "name": "i20", "year": 2022, "rarity": "COMMON" },
-      { "name": "i30", "year": 2021, "rarity": "COMMON" },
-      { "name": "IONIQ 5", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "IONIQ 6", "year": 2023, "isElectric": true, "rarity": "RARE" },
-      { "name": "Kona", "year": 2022, "rarity": "COMMON" },
-      { "name": "Tucson", "year": 2022, "rarity": "COMMON" },
-      { "name": "Santa Fe", "year": 2023, "rarity": "COMMON" }
+      { "name": "Phantom", "rarity": "LEGENDARY" },
+      { "name": "Ghost", "rarity": "LEGENDARY" },
+      { "name": "Cullinan", "rarity": "LEGENDARY" },
+      { "name": "Spectre", "isElectric": true, "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "Kia",
-    "countryCode": "KR",
+    "name": "Bugatti", "countryCode": "FR",
     "models": [
-      { "name": "Picanto", "year": 2021, "rarity": "COMMON" },
-      { "name": "Rio", "year": 2020, "rarity": "COMMON" },
-      { "name": "Ceed", "year": 2021, "rarity": "COMMON" },
-      { "name": "Sportage", "year": 2022, "rarity": "COMMON" },
-      { "name": "Sorento", "year": 2022, "rarity": "COMMON" },
-      { "name": "EV6", "year": 2022, "isElectric": true, "rarity": "COMMON" },
-      { "name": "EV9", "year": 2024, "isElectric": true, "rarity": "RARE" }
+      { "name": "Chiron", "hp": 1500, "rarity": "LEGENDARY" },
+      { "name": "Veyron", "hp": 1001, "rarity": "LEGENDARY" }
     ]
   },
   {
-    "name": "BYD",
-    "countryCode": "CN",
+    "name": "Dodge", "countryCode": "US",
     "models": [
-      { "name": "Atto 3", "year": 2023, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Dolphin", "year": 2023, "isElectric": true, "rarity": "COMMON" },
-      { "name": "Seal", "year": 2023, "isElectric": true, "rarity": "RARE" },
-      { "name": "Han", "year": 2022, "isElectric": true, "rarity": "RARE" },
-      { "name": "Tang", "year": 2022, "isElectric": true, "rarity": "RARE" }
+      { "name": "Challenger", "rarity": "RARE" },
+      { "name": "Charger", "rarity": "RARE" },
+      { "name": "Durango", "rarity": "RARE" },
+      { "name": "Ram 1500", "rarity": "COMMON" }
     ]
   },
   {
-    "name": "MG",
-    "countryCode": "GB",
+    "name": "Chevrolet", "countryCode": "US",
     "models": [
-      { "name": "MG4", "year": 2023, "isElectric": true, "rarity": "COMMON" },
-      { "name": "ZS", "year": 2021, "rarity": "COMMON" },
-      { "name": "HS", "year": 2021, "rarity": "COMMON" },
-      { "name": "Cyberster", "year": 2024, "isElectric": true, "rarity": "EPIC" }
+      { "name": "Camaro", "rarity": "RARE" },
+      { "name": "Corvette", "rarity": "EPIC" },
+      { "name": "Silverado", "rarity": "COMMON" },
+      { "name": "Tahoe", "rarity": "COMMON" }
     ]
   }
 ]
